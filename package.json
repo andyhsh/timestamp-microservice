@@ -1,0 +1,19 @@
+{
+  "name": "timestamp-microservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andy Ho",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.3",
+    "moment": "^2.21.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.2"
+  }
+}
